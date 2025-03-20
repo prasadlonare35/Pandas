@@ -3,7 +3,7 @@
 This repository contains Python scripts that demonstrate basic to intermediate concepts of **Pandas**, a powerful Python library for data analysis and manipulation.  
 
 ## 📖 About Pandas  
-Pandas is a widely used library for handling structured data efficiently. It provides powerful tools for data manipulation, cleaning, and analysis using DataFrames and Series.  
+Pandas is a widely used library for handling structured data efficiently. It provides powerful tools for data manipulation, cleaning, and analysis using DataFrames and Series.
 
 ## ✨ Key Features:  
 - Efficient handling of structured data using DataFrames & Series.  
