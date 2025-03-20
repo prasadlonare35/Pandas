@@ -36,8 +36,8 @@ Pandas is a widely used library for handling structured data efficiently. It pro
 ## 🚀 How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/pandas-learning.git
-   cd pandas-learning
+   git clone https://github.com/prasadlonare35/Pandas.git
+   cd Pandas
 2. Run any of the Python scripts:
     ```bash
     python PandasSeries.py
